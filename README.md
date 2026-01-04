@@ -31,4 +31,5 @@ I use this GitHub account to document my academic work, practice projects, and p
 ---
 
 ## 📫 Contact
-📧 Email:faithvalencia026@gmail.com
+📧 Email: faith.valencia.dev@gmail.com
+💼 LinkedIn: linkedin.com/in/faith-valencia-170a283a2

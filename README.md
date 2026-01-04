@@ -1,7 +1,9 @@
+![Alt text](Banner.png)
+
 ## Hi, I’m Faith Valencia! 👋
 
 🎓 Information Technology Student  
-💻 Beginner Programmer
+💻 Aspiring developer
 
 ---
 
@@ -31,5 +33,10 @@ I use this GitHub account to document my academic work, practice projects, and p
 ---
 
 ## 📫 Contact
-📧 Email: faith.valencia.dev@gmail.com
-💼 LinkedIn: www.linkedin.com/in/faith-valencia-170a283a2
+- 📧 Email: faith.valencia.dev@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/faith-valencia-170a283a2
+
+---
+
+Passionate about growth and new opportunities in tech 🚀
+

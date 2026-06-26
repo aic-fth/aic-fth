@@ -1,9 +1,10 @@
 ![Alt text](Banner.png)
 
-## Hi, I’m Faith Valencia! 👋
+## Hi, I'm Faith Valencia! 👋
 
-🎓 Information Technology Student  
-💻 Aspiring developer
+🎓 BS Information Technology Student  
+💻 Aspiring Full-Stack Developer & UI/UX Designer  
+🌐 Portfolio: https://aic-fth.github.io/Portfolio/
 
 ---
 
